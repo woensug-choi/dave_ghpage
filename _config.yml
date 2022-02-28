@@ -19,6 +19,7 @@ baseurl: "/dave_ghpage" # the subpath of your site, e.g. /blog
 url: "https://woensug-choi.github.io/dave_ghpage/" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
+include: ["docs/tests/"]
 
 # Regression tests
 # By default, the pages in /docs/tests are excluded when the ste is built.
